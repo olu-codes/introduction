@@ -1,7 +1,10 @@
--Hi, I’m olu
--I’m interested in data science and data analytics
--I’m currently learning R
--I’m looking to collaborate on football related data science projects 
+ Hi, I’m olu
+
+ I’m interested in data science and data analytics
+ 
+ I’m currently learning R
+
+ I’m looking to collaborate on football related data science projects 
 
 
 <!---
